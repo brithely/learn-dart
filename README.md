@@ -19,3 +19,14 @@
 4. [Final Variables](https://github.com/brithely/learn-dart/blob/main/variables/4_final_variables.dart)
 5. [Late Variables](https://github.com/brithely/learn-dart/blob/main/variables/5_late_variables.dart)
 6. [Constant Variables](https://github.com/brithely/learn-dart/blob/main/variables/6_constant_variables.dart)
+
+## 2.DATA TYPES
+0. [Basic Data Types](https://github.com/brithely/learn-dart/blob/main/data_types/0_basic_data_types.dart)
+1. [Lists](https://github.com/brithely/learn-dart/blob/main/data_types/1_lists.dart)
+2. [String Interpolation](https://github.com/brithely/learn-dart/blob/main/data_types/2_string_interpolation.dart)
+3. [Collection For](https://github.com/brithely/learn-dart/blob/main/data_types/3_collection_for.dart)
+4. [Maps](https://github.com/brithely/learn-dart/blob/main/data_types/4_maps.dart)
+5. [Sets](https://github.com/brithely/learn-dart/blob/main/data_types/5_sets.dart)
+
+
+## 3.FUNCTIONS

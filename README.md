@@ -31,9 +31,9 @@
 
 
 ## 3.FUNCTIONS
-0. [Defining a Function](https://github.com/brithely/learn-dart/blob/main/data_types/0_defining_a_function.dart)
-1. [Named Parameters](https://github.com/brithely/learn-dart/blob/main/data_types/1_named_parameters.dart)
+0. [Defining a Function](https://github.com/brithely/learn-dart/blob/main/functions/0_defining_a_function.dart)
+1. [Named Parameters](https://github.com/brithely/learn-dart/blob/main/functions/1_named_parameters.dart)
 2. Recap
-3. [Optional Positional Parameters](https://github.com/brithely/learn-dart/blob/main/data_types/3_optional_positional_parameters.dart)
-4. [QQ Operator](https://github.com/brithely/learn-dart/blob/main/data_types/4_qq_operator.dart)
-5. [Typedef](https://github.com/brithely/learn-dart/blob/main/data_types/5_typedef.dart)
+3. [Optional Positional Parameters](https://github.com/brithely/learn-dart/blob/main/functions/3_optional_positional_parameters.dart)
+4. [QQ Operator](https://github.com/brithely/learn-dart/blob/main/functions/4_qq_operator.dart)
+5. [Typedef](https://github.com/brithely/learn-dart/blob/main/functions/5_typedef.dart)

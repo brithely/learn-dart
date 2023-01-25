@@ -19,6 +19,7 @@
 4. [Final Variables](https://github.com/brithely/learn-dart/blob/main/variables/4_final_variables.dart)
 5. [Late Variables](https://github.com/brithely/learn-dart/blob/main/variables/5_late_variables.dart)
 6. [Constant Variables](https://github.com/brithely/learn-dart/blob/main/variables/6_constant_variables.dart)
+7. Recap
 
 ## 2.DATA TYPES
 0. [Basic Data Types](https://github.com/brithely/learn-dart/blob/main/data_types/0_basic_data_types.dart)
@@ -30,3 +31,9 @@
 
 
 ## 3.FUNCTIONS
+0. [Defining a Function](https://github.com/brithely/learn-dart/blob/main/data_types/0_defining_a_function.dart)
+1. [Named Parameters](https://github.com/brithely/learn-dart/blob/main/data_types/1_named_parameters.dart)
+2. Recap
+3. [Optional Positional Parameters](https://github.com/brithely/learn-dart/blob/main/data_types/3_optional_positional_parameters.dart)
+4. [QQ Operator](https://github.com/brithely/learn-dart/blob/main/data_types/4_qq_operator.dart)
+5. [Typedef](https://github.com/brithely/learn-dart/blob/main/data_types/5_typedef.dart)
